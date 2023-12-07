@@ -13,7 +13,7 @@
 
 ### Objetivo
 
-Cliente propritário de um PetShop quer um levantamento de informações para tomada de decisão analisando alguns dados para saber se é viável abrir **novas lojas** e crescer com seu negócio.
+Cliente proprietário de um PetShop quer um levantamento de informações para tomada de decisão, analisando alguns dados para saber se é viável abrir **novas lojas** e crescer com seu negócio.
 
 O Dashboard responde as seguintes perguntas:
 
