@@ -4,7 +4,8 @@
 
 - [Dashboard PetShop](https://github.com/suelentonello/PowerBI/tree/main/Dasboard%20PetShop)
 - [Dashboard E-commerce](https://github.com/suelentonello/PowerBI/tree/main/Dashboard%20E-commerce)
-  
+- [Dashboard People Analytics](https://github.com/suelentonello/PowerBI/tree/main/Dashboard%20People%20Analytics)
+ 
 
 ## Dashboard PetShop 🐱
 
@@ -55,6 +56,28 @@ Nome das tabelas:
 - Vendas por semana
 - Acessos na página
 - Número de livros vendidos
+
+
+## Dashboard People Analytics 🤝📈 
+
+![Gif que exemplifica o funcionando do Dashboard Peolpe Analytics](https://i.imgur.com/SLcgaYa.gif[/img])
+
+### Objetivo 🎯
+
+A **Tech Safe** é uma empresa de segurança está passando por uma transformação digital, por isso quer que cada vez mais suas **tomadas de decisão** sejam baseadas em **dados**. 
+
+O setor de RH mapeou algumas métricas que serão acompanhadas dentro de um relatório do Power BI, e a partir de uma base de dados, o RH quis responder algumas perguntas. 
+
+- Quantidade de admissões e desligamentos de acordo com o mês e ano. Além disso, pretende identificar a quantidade de pessoas colaboradoras ativas, além da quantidade e motivos de desligamentos e as motivações das movimentações.
+
+- Acompanhamento do percentual de absenteísmo no ano atual. Este dado é calculado com base nas faltas dos colaboradores da empresa. Além do mais, para essa métrica, temos uma meta de até 10% de faltas.
+
+- A porcentagem de turnover geral, uma taxa de rotatividade dos funcionários. Para ela, definiu-se uma meta de até 5%.
+
+
+### Base de dados 📂
+
+- Dataset do RH: Pasta de trabalho do Excel.
 
 
 
