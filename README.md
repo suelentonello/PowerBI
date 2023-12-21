@@ -5,6 +5,7 @@
 - [Dashboard PetShop](https://github.com/suelentonello/PowerBI/tree/main/Dasboard%20PetShop)
 - [Dashboard E-commerce](https://github.com/suelentonello/PowerBI/tree/main/Dashboard%20E-commerce)
 - [Dashboard People Analytics](https://github.com/suelentonello/PowerBI/tree/main/Dashboard%20People%20Analytics)
+- [Dashboard Filtro - Web Scraping](https://github.com/suelentonello/PowerBI/tree/main/Dashboard%20Filtro)
  
 
 ## Dashboard PetShop 🐱
@@ -80,6 +81,26 @@ O setor de RH mapeou algumas métricas que serão acompanhadas dentro de um rela
 - Dataset do RH: Pasta de trabalho do Excel.
 
 
+## Dashboard Filtro - Web Scraping 🌐📥
+
+![Gif que exemplifica o funcionando do Dashboard Filtro](https://i.imgur.com/lw7JUgp.gif)
+
+### Objetivo 🎯
+
+Coleta de dados da web (Webscraping) utilizando o Microsoft Power BI.
+O site Drivest possui uma página web onde demonstra os carros disponíveis para venda, novos, seminovos e usados, onde consta:
+-  Marca e modelo
+-  Ano
+-  Valor de venda
+-  Informações gerais sobre o veículo
+-  Local do anúncio
 
 
+### Base de dados 📂
+
+O link para acesso ao website para o web scraping é:
+
+- https://labdados.com/A+/drivest
+
+ 
 *Conteúdo proposto na Formação PowerBI da Alura.*
